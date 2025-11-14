@@ -1,3 +1,3 @@
-df hello():
-print('hello git world')
+def hello(name):
+print('hello git {name}')
 
